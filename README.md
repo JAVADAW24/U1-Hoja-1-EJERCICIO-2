@@ -2,7 +2,9 @@
 Realizar modificaciones en programa JAVA:
 
 
+
     🏴‍ Realizar las siguientes modificaciones en el programa anterior:
+   
    
      a. Añade comentarios, entre otros:
         • Nombre de clase, descripción y autor
@@ -12,5 +14,5 @@ Realizar modificaciones en programa JAVA:
       
      c. Utiliza la secuencia de escape correspondiente para generar un tabulador al principio de cada línea salvo de la primera.
       
-     d. Mostrar el siguiente resultado:
+     d. Mostrar el siguiente resultado..
 
