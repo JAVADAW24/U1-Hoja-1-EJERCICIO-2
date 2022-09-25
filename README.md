@@ -16,3 +16,7 @@ Realizar modificaciones en programa JAVA:
       
      d. Mostrar el siguiente resultado..
 
+
+
+![alt text](https://repository-images.githubusercontent.com/541167173/34ff1a6e-5ea9-46fd-b853-f08b90aef7e5)
+
